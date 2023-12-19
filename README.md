@@ -13,3 +13,4 @@ When the user clicks on the temperature value, that will convert it from Celsius
 The API provider is http://www.OpenWeatherMap.org
 
 ![image](https://github.com/Manal-Lahmidi/js-Real-Weather-App/assets/129679210/1ede1583-d5c9-498d-aa1e-77bd7c4c6426)
+[try the app](https://real-time-wheather.netlify.app/)
